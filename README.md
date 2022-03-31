@@ -17,4 +17,4 @@ Module 01 - Основы языка программирования Python
     + [Работа с разными форматами данных](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/08%20Files%20JSON%20XML)
 3. Работа с внешним API
     + [Работа с библиотекой requests, http запросы](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/09%20requests)
-    + [Работа с классами на примере API VK]()
+    + [Работа с классами на примере API VK]
