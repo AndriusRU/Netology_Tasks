@@ -4,7 +4,7 @@
 Module 01 - Основы языка программирования Python
 ------------------------------------------------
 1. Знакомство с Python
-    + [Python. Знакомство с консолью](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/01%20Intro)
+    + [Python. Знакомство с консолью](../Module 01 - Basic Python/01 Intro/README.md)
     + [Условные конструкции. Операции сравнения](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/02%20If-else)
     + [Введение в типы данных и циклы](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/03%20For%20While)
     + [Коллекции данных. Словари. Множества.](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/04%20List%20Dictionary%20Set)
@@ -25,3 +25,13 @@ Module 02 - Git — система контроля версий
 1. [Внедрение системы контроля версий](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2002%20-%20Git/01%20-%20Intro)
 2. [История работы и ветки](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2002%20-%20Git/02%20-%20History%20and%20Branch)
 3. [Командная работа](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2002%20-%20Git/03%20-%20Team%20work)
+
+Module 03 - Базы данных для python-разработчиков
+------------------------------------------------
+
+1. [Введение в базы данных. Типы баз данных.]()
+2. [Работа с PostgreSQL. Создание БД]()
+3. [Проектирование БД. Связи. 3НФ]()
+4. [Select-запросы, выборки из одной таблицы]()
+5. [Группировки, выборки из нескольких таблиц]()
+6. [Python и БД. ORM]()
