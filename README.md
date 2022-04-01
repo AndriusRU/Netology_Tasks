@@ -4,7 +4,7 @@
 Module 01 - Основы языка программирования Python
 ------------------------------------------------
 1. Знакомство с Python
-    + [Python. Знакомство с консолью](../Module 01 - Basic Python/01 Intro/README.md)
+    + [Python. Знакомство с консолью](Module%2001%20-%20Basic%20Python/01%20Intro/README.md)
     + [Условные конструкции. Операции сравнения](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/02%20If-else)
     + [Введение в типы данных и циклы](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/03%20For%20While)
     + [Коллекции данных. Словари. Множества.](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/04%20List%20Dictionary%20Set)
