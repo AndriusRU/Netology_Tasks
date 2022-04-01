@@ -22,9 +22,9 @@ Module 01 - Основы языка программирования Python
 
 Module 02 - Git — система контроля версий
 -----------------------------------------
-1. [Внедрение системы контроля версий](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2002%20-%20Git/01%20-%20Intro)
-2. [История работы и ветки](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2002%20-%20Git/02%20-%20History%20and%20Branch)
-3. [Командная работа](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2002%20-%20Git/03%20-%20Team%20work)
+1. [Внедрение системы контроля версий](Module02-Git/01-Intro)
+2. [История работы и ветки](Module02-Git/02-History_and_Branch)
+3. [Командная работа](Module02-Git/03-Team_work)
 
 Module 03 - Базы данных для python-разработчиков
 ------------------------------------------------
