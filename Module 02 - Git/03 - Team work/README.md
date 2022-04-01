@@ -36,7 +36,7 @@
 ![Скриншот первой проблемы](https://github.com/AndriusRU/Netology_Tasks/blob/master/Module%2002%20-%20Git/files/error1.png):
 
 
-![Скриншот второй проблемы]((https://github.com/AndriusRU/Netology_Tasks/blob/master/Module%2002%20-%20Git/files/error2.png)): 
+![Скриншот второй проблемы](https://github.com/AndriusRU/Netology_Tasks/blob/master/Module%2002%20-%20Git/files/error2.png): 
 
 В качестве результата пришлите проверяющему ссылки на два созданных вами Issue
 
