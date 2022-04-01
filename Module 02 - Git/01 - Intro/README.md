@@ -24,7 +24,8 @@
 >+ Низкая цена
 
 *Логотип:*
-![](/files/logo.png)
+![][logo]
+[logo]:https://github.com/AndriusRU/Netology_Tasks/blob/master/Module%2002%20-%20Git/files/logo.png
 
 
 ### Задача
@@ -43,7 +44,7 @@
 <details><summary>Подсказка: Markdown-разметка для файла README.md</summary>
 # NeuroStartUp
 
-![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+![][logo]
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
