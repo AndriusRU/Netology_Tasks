@@ -33,10 +33,10 @@
 2. Зайдите в раздел Issues и создайте два новых Issue ([пример описания](https://github.com/netology-code/git-homeworks/blob/master/remote/issue-example.md)).
 3. Отметьте в тексте Issue пользователя `@solarrust`.
 ### Приложения
-![Скриншот первой проблемы](https://github.com/AndriusRU/Netology_Tasks/blob/master/Module%2002%20-%20Git/files/error1.png):
+![Скриншот первой проблемы](../files/error1.png):
 
 
-![Скриншот второй проблемы](https://github.com/AndriusRU/Netology_Tasks/blob/master/Module%2002%20-%20Git/files/error2.png): 
+![Скриншот второй проблемы](../files/error2.png): 
 
 В качестве результата пришлите проверяющему ссылки на два созданных вами Issue
 
