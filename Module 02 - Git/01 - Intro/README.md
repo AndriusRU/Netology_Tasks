@@ -24,8 +24,7 @@
 >+ Низкая цена
 
 *Логотип:*
-![][logo]
-[logo]:https://github.com/AndriusRU/Netology_Tasks/blob/master/Module%2002%20-%20Git/files/logo.png
+![](https://github.com/AndriusRU/Netology_Tasks/blob/master/Module%2002%20-%20Git/files/logo.png)
 
 
 ### Задача
