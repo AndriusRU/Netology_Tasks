@@ -4,19 +4,19 @@
 Module 01 - Основы языка программирования Python
 ------------------------------------------------
 1. Знакомство с Python
-    + [Python. Знакомство с консолью](Module 01 - Basic Python/01 Intro/README.md)
-    + [Условные конструкции. Операции сравнения](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/02%20If-else)
-    + [Введение в типы данных и циклы](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/03%20For%20While)
-    + [Коллекции данных. Словари. Множества.](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/04%20List%20Dictionary%20Set)
-    + [Функции - использование встроенных и создание собственных](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/05%20Functions)
-    + [ООП: объекты и классы. Взаимодействие между ними -1](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/06%20OOP-1)
-    + [ООП: объекты и классы. Взаимодействие между ними -2](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/06%20OOP-2)
-    + [ООП: наследование, инкапсуляция и полиморфизм](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/06%20OOP%20polimorfism)
+    + [Python. Знакомство с консолью](Module01-Basic_Python/01-Intro/README.md)
+    + [Условные конструкции. Операции сравнения](Module01-Basic_Python/02-If-else)
+    + [Введение в типы данных и циклы](Module01-Basic_Python/03-ForWhile)
+    + [Коллекции данных. Словари. Множества.](Module01-Basic_Python/04-List_Dictionary_Set)
+    + [Функции - использование встроенных и создание собственных](Module01-Basic_Python/05-Functions)
+    + [ООП: объекты и классы. Взаимодействие между ними -1](Module01-Basic_Python/06-OOP-1)
+    + [ООП: объекты и классы. Взаимодействие между ними -2](Module01-Basic_Python/06-OOP-2)
+    + [ООП: наследование, инкапсуляция и полиморфизм](Module01-Basic_Python/06-OOP_polimorfism)
 2. Работа с файловой системой в Python
-    + [Открытие и чтение файла, запись в файл](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/07%20Files)
-    + [Работа с разными форматами данных](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/08%20Files%20JSON%20XML)
+    + [Открытие и чтение файла, запись в файл](Module01-Basic_Python/07-Files)
+    + [Работа с разными форматами данных](Module01-Basic_Python/08-Files_JSON_XML)
 3. Работа с внешним API
-    + [Работа с библиотекой requests, http запросы](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2001%20-%20Basic%20Python/09%20requests)
+    + [Работа с библиотекой requests, http запросы](Module01-Basic_Python/09-requests)
     + Работа с классами на примере API VK
 
 
