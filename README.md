@@ -24,5 +24,5 @@ Module 02 - Git — система контроля версий
 -----------------------------------------
 1. [Внедрение системы контроля версий](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2002%20-%20Git/01%20-%20Intro)
 2. [История работы и ветки](https://github.com/AndriusRU/Netology_Tasks/tree/master/Module%2002%20-%20Git/02%20-%20History%20and%20Branch)
-3. Командная работа
+3. [Командная работа]()
 4. 
