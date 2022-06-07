@@ -6,7 +6,7 @@
 
 Ваша задача: починить адресную книгу, используя регулярные выражения.<br/>
 Структура данных будет всегда:<br/>
-`lastname,firstname,surname,organization,position,phone,email`
+`lastname,firstname,surname,organization,position,phone,email` <br/>
 Предполагается, что телефон и e-mail у человека может быть только один.<br/>
 Необходимо:<br/>
 
@@ -14,6 +14,7 @@
 2. привести все телефоны в формат +7(999)999-99-99. Если есть добавочный номер, формат будет такой: +7(999)999-99-99 доб.9999;
 3.объединить все дублирующиеся записи о человеке в одну.
 <br/>
+
 ```python
 from pprint import pprint
 # читаем адресную книгу в формате CSV в список contacts_list
@@ -33,6 +34,7 @@ with open("phonebook.csv", "w") as f:
   # Вместо contacts_list подставьте свой список
   datawriter.writerows(contacts_list)
 ```
+
 ***
 Домашнее задание сдается ссылкой на репозиторий [BitBucket](https://bitbucket.org/) или [GitHub](https://github.com/)
 
