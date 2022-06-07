@@ -5,7 +5,7 @@
   + директория application:
     -- salary.py;
     -- директория db:
-    --- people.py;
+    --- people.py;<br/>
   main.py - основной модуль для запуска программы.<br/>
   В модуле salary.py функция calculate_salary.<br/>
   В модуле people.py функция get_employees.<br/>
