@@ -7,7 +7,7 @@
 
 Пример preview:
 
-
+![](preview.png)
 
 Шаблон кода:
 
