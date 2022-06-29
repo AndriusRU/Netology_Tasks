@@ -42,4 +42,4 @@ Module 04 - Профессиональная работа с Python
 2. [Регулярные выражения](Module04-Pro_Python/02-RegEx)
 3. [Веб-скрапинг](Module04-Pro_Python/03_web_scrapping)
 4. [Итераторы, генераторы](Module04-Pro_Python/04-Iterators_generators)
-5. [Декораторы]
+5. [Декораторы](Module04-Pro_Python/05-Decorators)
