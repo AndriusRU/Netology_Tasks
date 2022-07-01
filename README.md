@@ -43,3 +43,5 @@ Module 04 - Профессиональная работа с Python
 3. [Веб-скрапинг](Module04-Pro_Python/03_web_scrapping)
 4. [Итераторы, генераторы](Module04-Pro_Python/04-Iterators_generators)
 5. [Декораторы](Module04-Pro_Python/05-Decorators)
+6. [Разработка тестов](Module04-Pro_Python/06-Test)
+7. [Подготовка к интервью](Module04-Pro_Python/07-Interview)
